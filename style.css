@@ -1,0 +1,216 @@
+*{
+    margin:0;
+    padding: 0;
+  box-sizing:border-box;
+  }
+  .container{
+  width:400px;
+  height: 400px;
+  background: blue;
+  margin:50px auto;
+  display: flex;
+  }
+  .hijo{
+  width: 100px;
+  height:100px;
+  background: yellow;
+  font-size:50px;
+  font-weight: bolder;
+  text-align: center;
+  margin: 10px;
+  }
+  
+  
+  .container2{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  
+  .container3{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  flex-direction:column-reverse;
+  }
+  
+  
+  .container4{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  flex-direction: row;
+  }
+  
+  .container5{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  flex-direction: row-reverse;
+  }
+  
+  .container6{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  flex-wrap: nowrap;
+  }
+  
+  .container7{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  flex-wrap: wrap;
+  }
+  
+  .container8{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  flex-wrap: wrap-reverse;
+  }
+  
+  .container9{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  justify-content: center;
+  }
+  .container10{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  justify-content: center;
+  }
+  .container11{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  justify-content:flex;
+  }
+  .container12{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  justify-content:flex-end;
+  }
+  .container13{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  justify-content: space-around;
+  }
+  .container14{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  justify-content: space-between;
+  }
+  .container15{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  align-items: center;
+  }
+  .container16{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  align-items: flex-start;
+  }
+  .container17{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  align-items: flex-end;
+  }
+  .container18{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  align-items: stretch;
+  }
+  .container19{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  align-items: baseline;
+  }
+  .container20{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  align-content: flex-start;
+  }
+  .container21{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  align-content: flex-end;
+  }
+  .container22{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  align-content: center;
+  }
+  .container23{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  align-content: space-between;
+  }
+  .container24{
+  width:400px;
+  height: 400px;
+  background: red;
+  margin:50px auto;
+  display: flex;
+  align-content: space-around;
+  }
