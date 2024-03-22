@@ -188,8 +188,7 @@
   background: red;
   margin:50px auto;
   display: flex;
-      align-content: center;
-  align-content: flex-end;
+    align-items: center;
   }
   .container22{
   width:400px;
