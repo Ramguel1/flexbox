@@ -188,6 +188,7 @@
   background: red;
   margin:50px auto;
   display: flex;
+      align-content: center;
   align-content: flex-end;
   }
   .container22{
@@ -197,6 +198,7 @@
   margin:50px auto;
   display: flex;
   align-content: center;
+      
   }
   .container23{
   width:400px;
